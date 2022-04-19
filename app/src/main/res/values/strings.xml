@@ -1,0 +1,25 @@
+<resources>
+    <!-- 19-04-2022, NIM:1011911, Nama: Badra Samsudin Ramdan Nugraha, Kelas IF-6 -->
+    <string name="app_name">10119211Latihan1</string>
+    <string name="name">DigiTeam</string>
+    <string name="nama_user">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="slogan">Digital Together Everyone Achieve More</string>
+    <string name="jabar_digi">Jabar Digital Service</string>
+    <string name="jam_kerja_header">Jam Kerja Bulan Ini</string>
+    <string name="jam_kerja_bulan_ini">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="jam_kerja">130.53 Jam</string>
+    <string name="jam_kerja_minimum">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="l_kamu">Laporan Kamu</string>
+    <string name="maret">Maret</string>
+    <string name="april">April</string>
+    <string name="b_laporan">Buat Laporan</string>
+    <string name="izin">Izin</string>
+    <string name="kehadiran">Kehadiran</string>
+    <string name="laporan">Laporan</string>
+    <string name="agenda">Agenda</string>
+    <string name="boking">Booking</string>
+    <string name="wiki">Wiki</string>
+    <string name="bidang">UI Designer</string>
+    <string name="checkin">Checkin</string>
+    <string name="cek">123456789123456789123456789123456789123345</string>
+</resources>
